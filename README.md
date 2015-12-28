@@ -14,7 +14,7 @@ Because Chromium has no build-in update functions, if you want to update your Ch
 # Usage
 
 ##### 1. Run the program file named **ChromiumDownloaderFX.jar**. #####
-##### 2. Choose a operating system you want to use. This application can detect your OS by default. #####
+##### 2. Choose an operating system you want to use. This application can detect your OS by default. #####
 ##### 3. Choose a download format.  #####
 ##### 4. Choose a download method.  #####
 ##### 5. Click the 'Check Version' button to get the newest version number of Chromium.  #####
